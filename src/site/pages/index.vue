@@ -8,7 +8,7 @@
 				<div>
 					<h4>Blazing fast file uploader. For real.</h4>
 					<p>
-						A <strong>modern</strong> and self-hosted file upload service that can handle anything you throw at it.
+						A <strong>Test</strong> and self-hosted file upload service that can handle anything you throw at it.
 					</p>
 					<p>
 						With a fast API, chunked file uploads out of the box, beautiful masonry-style file manager and both individual and album sharing capabilities, this little tool was crafted with the best user experience in mind.<br>
