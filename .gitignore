@@ -14,3 +14,4 @@ docker/nginx/chibisafe.moe.conf
 docker-compose.config.yml
 /coverage
 local/
+yarn.lock
