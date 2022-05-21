@@ -13,7 +13,6 @@
 			href="https://github.com/rapphy243/chibisafe"
 			target="_blank"
 			class="link">
-			<header class="bd-footer-star-header">
 			<h4 class="bd-footer-title">Github</h4>
 			<p class="bd-footer-subtitle">Deploy your own Chibisafe</p>
 		</a>

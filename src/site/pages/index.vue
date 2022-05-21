@@ -6,7 +6,7 @@
 		<div class="leftSpacer">
 			<div class="mainBlock">
 				<div>
-					<h4>Blazing fast file uploader. For real.</h4>
+					<h4>Yo les zizis !</h4>
 					<p>
 						A <strong>Test</strong> and self-hosted file upload service that can handle anything you throw at it.
 					</p>
@@ -20,8 +20,6 @@
 						class="has-text-right is-size-4">
 						This site has disabled public uploads. You need an account.
 					</div>
-
-					<Links />
 				</div>
 			</div>
 		</div>

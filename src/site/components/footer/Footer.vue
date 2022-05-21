@@ -6,21 +6,10 @@
 					<h4>chibisafe</h4>
 					<span>© 2017-{{ getYear }}
 						<a
-							href="https://github.com/pitu"
-							class="no-block">Pitu</a>
+							href="https://github.com/Evnoxay"
+							class="no-block">Evnoxay</a>
 					</span><br>
 					<span>{{ version }}</span>
-				</div>
-				<div class="column is-narrow bottom-up">
-					<a href="https://github.com/rapphy243/chibisafe">GitHub</a>
-					<a href="CatGirl#0142">CatGirl#0142</a>
-				</div>
-				<div class="column is-narrow bottom-up">
-					<a
-						v-if="loggedIn"
-						@click="createShareXThing">ShareX Config</a>
-					<a href="https://chrome.google.com/webstore/detail/lolisafe-uploader/enkkmplljfjppcdaancckgilmgoiofnj">Chrome Extension</a>
-					<a href="https://www.icloud.com/shortcuts/48ac849f13cc4b50b42bc1a478bddcb6">iOS Shortcut</a>
 				</div>
 			</div>
 		</div>

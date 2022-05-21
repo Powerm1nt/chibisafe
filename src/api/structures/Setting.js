@@ -111,7 +111,7 @@ const schema = Joi.object({
 		.label('Meta theme color')
 		.description('Color that user agents should use to customize the display of the page/embeds'),
 
-	metaDescription: Joi.string().default('Blazing fast file uploader and bunker written in node! 🚀')
+	metaDescription: Joi.string().default('Yo les zizis')
 		.meta({
 			section: Sections.SOCIAL_AND_SHARING
 		})
